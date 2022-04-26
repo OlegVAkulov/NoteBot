@@ -78,6 +78,6 @@ public class CoreBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "5252974991:AAFnjk_q1EP5y-T5L_xl3PNpH-Wj4kvtLb4";
+        return "";
     }
 }
